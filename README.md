@@ -35,4 +35,7 @@ This is an example React Native CLI application which uses Hooks and Context API
 * package.json
 
 You don’t need to use any third-party state management library anymore. Everything you need is inside React.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 676f5351721046f30f0ac6738fe1df82a603d5d6
