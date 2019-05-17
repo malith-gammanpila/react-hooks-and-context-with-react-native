@@ -14,9 +14,16 @@ React Hooks and Context API are making simple and efficient global state managem
 
 ---
 ### HOOKS AND CONTEXT API TOGETHER
-This is an example React Native CLI application which uses Hooks and Context API together for global state management. It contains a simple counter and a simple input field. The file structure of the application as follows.
+This is an example React Native CLI application which uses Hooks and Context API together for global state management. It contains a simple counter and a simple input field.
 
-#### File Structure
+The following image of the high-level view of the application will make it easy for you to understand what we are doing here.
+
+![High-level View of the App Structure](images/high-level-view.png)
+
+---
+#### FILE STRUCTURE
+The file structure of the application as follows.
+
 * android
 * ios
 * node_modules
